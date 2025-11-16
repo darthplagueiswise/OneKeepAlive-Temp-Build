@@ -1,0 +1,9 @@
+Package: com.manus.blsbxautomator
+Name: BLSbx Automator
+Depends: mobilesubstrate, firmware (>= 26.0)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Automated sandbox escape PoC for itunesstored & bookassetd (iOS 26.x)
+Maintainer: Manus AI
+Author: Manus AI
+Section: System
